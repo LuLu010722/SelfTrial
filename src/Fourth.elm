@@ -5,3 +5,7 @@ module Fourth exposing (..)
 constant : Float
 constant =
     384668412
+
+anotheruselessfunction: Int
+anotheruselessfunction =
+    2
