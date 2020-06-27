@@ -4,6 +4,6 @@ module Mine exposing (..)
 --8
 
 --I love you.
---so so much.
+--so much.
 
---Let's stretch the master a little bit.
+--This is the branchofbranch1.
