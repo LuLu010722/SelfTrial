@@ -8,3 +8,7 @@ module Mine exposing (..)
 
 --This is the branchofbranch1.
 --This is still master.
+
+second : Int
+second =
+    6
