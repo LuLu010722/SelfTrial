@@ -8,3 +8,9 @@ module Mine exposing (..)
 
 --This is the branchofbranch1.
 --This is still master.
+
+
+firstFunction : Int
+firstFunction =
+    5
+
